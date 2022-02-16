@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Interview Test and Final Exam
 uid: 12be6678-1fc1-ae3e-5868-477963931297
 ---

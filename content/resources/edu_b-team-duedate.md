@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21g-502-japanese-ii-spring-2020/a4ca614a6d420d38605d373c39164c00_edu_b-team-duedate.png
+file: /media/courses/21g-502-japanese-ii-spring-2020/a4ca614a6d420d38605d373c39164c00_edu_b-team-duedate.png
 file_type: image/png
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 resourcetype: Image
 title: edu_b-team-duedate.png
 uid: a4ca614a-6d42-0d38-605d-373c39164c00
