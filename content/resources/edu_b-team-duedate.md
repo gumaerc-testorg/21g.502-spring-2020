@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
+parent_uid: 4d98e0c5-3228-d02c-82be-272cbf5e036d
 resourcetype: Image
 title: edu_b-team-duedate.png
 uid: a4ca614a-6d42-0d38-605d-373c39164c00
