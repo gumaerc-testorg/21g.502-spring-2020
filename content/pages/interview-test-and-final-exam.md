@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This page provides the information for the interview test and final exam
+  for the MIT course 21G.502 Japanese II, Fall 2020 taught by Takako Aikawa, Masami
+  Ikeka-Lamm, Wakana Maekawa, and Emiko Rafique.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Interview Test and Final Exam

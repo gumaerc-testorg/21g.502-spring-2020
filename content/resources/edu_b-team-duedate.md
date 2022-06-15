@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/21g-502-japanese-ii-spring-2020/a4ca614a6d420d38605d373c39164c00_edu_b-team-duedate.png
+file: /courses/21g-502-japanese-ii-spring-2020/a4ca614a6d420d38605d373c39164c00_edu_b-team-duedate.png
 file_type: image/png
 image_metadata:
   caption: ''
