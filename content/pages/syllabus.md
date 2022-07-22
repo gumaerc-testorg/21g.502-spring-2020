@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This page provides the course policy for the MIT course 21G.502 Japanese
+  II, Fall 2020 taught by Takako Aikawa, Masami Ikeka-Lamm, Wakana Maekawa, and Emiko
+  Rafique.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: b51a810c-3f96-3c52-2100-7a651d54a4b0
 ---

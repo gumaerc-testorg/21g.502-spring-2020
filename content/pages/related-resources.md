@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This page provides the supplemental resources for the MIT course 21G.502
+  Japanese II, Fall 2020 taught by Takako Aikawa, Masami Ikeka-Lamm, Wakana Maekawa,
+  and Emiko Rafique.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Related Resources
 uid: 51ea76fd-a83d-92b1-eff5-e1da9c28e71d
 ---

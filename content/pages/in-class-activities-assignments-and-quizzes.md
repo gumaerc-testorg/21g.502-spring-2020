@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This page provides the class schedule and summary of in-class activities
+  for the MIT course 21G.502 Japanese II, Fall 2020 taught by Takako Aikawa, Masami
+  Ikeka-Lamm, Wakana Maekawa, and Emiko Rafique.
+learning_resource_types: []
+ocw_type: CourseSection
 title: In-class Activities, Assignments, and Quizzes
 uid: cec83cbc-a972-e4f7-2bc7-9ab060159d30
 ---

@@ -1,14 +1,17 @@
 ---
 content_type: page
+description: In this section, Masami Ikeda-Lamm describes various aspects of how she
+  teaches 21G.502 Japanese II.
+draft: false
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 4d98e0c5-3228-d02c-82be-272cbf5e036d
 ---
+## Instructor Insights
 
-Instructor Insights
--------------------
-
-Below, Masami Ikeda-Lamm describes various aspects of how she teaches _21G.502 Japanese II_.
+Below, Masami Ikeda-Lamm describes various aspects of how she teaches *21G.502 Japanese II*.
 
 **OCW:** This course emphasizes an active command of Japanese, with a focus on communication. As an educator, what are some of the biggest challenges you face in helping students at this particular level move from pure memorization to active communication?
 
@@ -32,8 +35,7 @@ We start with self-introduction in Japanese on the first day of classes in 21G.5
 
 I believe that a sense of community facilitates language learning and a feeling of belonging is critical to ensuring students remain involved. When the class instruction suddenly shifted online due to the pandemic in March 2020, the sense of community had been already established in 21G.502. Under such an unusual circumstance, we all felt uncertain and disconnected, yet this sense of belonging helped everyone remain engaged in the new virtual learning space.
 
-Assessment
-----------
+## Assessment
 
 ### Grade Breakdown
 
@@ -45,29 +47,29 @@ The students' grades were based on the following assessment elements:
 - 10% Workbook homework
 - 6% Projects
 
-Curriculum Information
-----------------------
+## Curriculum Information
 
 ### Prerequisites
 
-[_21G.501 Japanese I_](/courses/21g-501-japanese-i-fall-2019/) or equivalent
+[*21G.501 Japanese I*](/courses/21g-501-japanese-i-fall-2019) or equivalent
 
 ### Requirements Satisfied
 
-*   GIR ![GIR](/images/educator/icon-question-gir.png)
-*   HASS ![HASS](/images/educator/icon-question-hass.png)
-*   HASS-H ![HASS-H](/images/educator/icon-question-hass-h.png)
-*   21G.502 is required for a [Bachelor’s Degree in Global Languages with a concentration in Japanese Studies (PDF)](https://mitgsl.mit.edu/sites/default/files/JapaneseSmSpring21_0.pdf).
-*   21G.502 counts toward the two years of Japanese studies required for participation in the [MISTI-Japan internship program](https://misti.mit.edu/mit-japan).
+- GIR
+- HASS
+- HASS-H
+- 21G.502 is required for a [Bachelor’s Degree in Global Languages with a concentration in Japanese Studies](http://catalog.mit.edu/schools/humanities-arts-social-sciences/global-studies-languages/#global-languages-literatures-bs-course-21g).
+- 21G.502 counts toward the two years of Japanese studies required for participation in the [MISTI-Japan internship program](https://misti.mit.edu/mit-japan).
 
 ### Offered
 
 Every spring semester
 
-Student Information
--------------------
+## Student Information
 
-![49 students took this course when it was taught in spring 2020.]({{< resource_file 0c8c0427-0cd1-4ab0-fdb0-4d532887d63b >}})
+### Enrollment
+
+49 students
 
 ### Breakdown by Year
 
@@ -77,17 +79,14 @@ Student Information
 
 45% Computer Science, 10% Mathematics, 6% Aeronautics and Astronautics, and 39% other
 
-How Student Time Was Spent
---------------------------
+## How Student Time Was Spent
 
 During an average week, students were expected to spend 12 hours on the course, roughly divided as follows:
 
-In Class
---------
+### In Class
 
 Met 4 times per week for 1 hour per session; 49 sessions total; mandatory attendance
 
-Out of Class
-------------
+### Out of Class
 
 Outside class time, students completed homework assignments and prepared for tests and quizzes.
