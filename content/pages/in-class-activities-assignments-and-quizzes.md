@@ -124,7 +124,7 @@ Lesson 7 Grammar
 
 
 1.  Prepare for vocabulary quiz 2.
-2.  Do the assigned [drills](http://web.mit.edu/21f.502/www/review.html) of Lesson 7. Also, finish \[G\] Practice I-A on p.176, II-A on p.177.
+2.  Do the assigned {{% resource_link "65412234-d107-40dc-a337-6c126110a395" "drills" %}} of Lesson 7. Also, finish \[G\] Practice I-A on p.176, II-A on p.177.
 3.  Do homework (しゅくだい) 1: \[GW\] pp.86–87. Use all the kanji you have learned up to Lesson 7.
 
 
@@ -136,8 +136,8 @@ Lesson 7 Drill (1)
 
 *   \[G\] Lesson 7 vocabulary quiz 2: Read carefully! ALL vocabulary in Lesson 7, pp.168–169 and Lesson 3, pp.86–87 as a review.
 *   Turn in homework 1
-*   \-ている Practice with the assigned [drills](http://web.mit.edu/21f.502/www/review.html)
-*   Kinship Terms in the assigned [drills](http://web.mit.edu/21f.502/www/review.html)
+*   \-ている Practice with the assigned {{% resource_link "65412234-d107-40dc-a337-6c126110a395" "drills" %}}
+*   Kinship Terms in the assigned {{% resource_link "65412234-d107-40dc-a337-6c126110a395" "drills" %}}
 
 
 {{< tdclose >}}
@@ -156,7 +156,7 @@ _Week 2_
 {{< tdopen >}}
 
 
-1.  Do the assigned [drills](http://web.mit.edu/21f.502/www/review.html) ~ている of Lesson 7.
+1.  Do the assigned {{% resource_link "65412234-d107-40dc-a337-6c126110a395" "drills" %}} ~ている of Lesson 7.
 2.  Do \[G\] Practice III-A and III-B on p.178 and IV-A and IV-B.
 3.  Do homework (しゅくだい) 2: \[GW\] pp.67–68-I, and p.138. Use all the kanji you have learned up to Lesson 7.
 4.  Review Lesson 7 grammar slides.
@@ -183,7 +183,7 @@ Lesson 7 Drill (2)
 {{< tdopen >}}
 
 
-1.  Do the assigned [drills](http://web.mit.edu/21f.502/www/review.html) ~ている of Lesson 7.
+1.  Do the assigned {{% resource_link "65412234-d107-40dc-a337-6c126110a395" "drills" %}} ~ている of Lesson 7.
 2.  Do \[G\] Practice V-A to V-C, pp.181–182.
 3.  Review time expressions.
 4.  Do homework (しゅくだい) 3: \[GW\], pp.69–70. Use all the kanji you have learned up to Lesson 7.
@@ -272,7 +272,7 @@ _Week 3_
 
 1.  Prepare for the Lesson 7 lesson quiz.
 2.  Review Lesson 7 vocabulary and structure patterns.
-3.  Work on Lesson 7 [drills](http://web.mit.edu/21f.502/www/review.html), including "particle review," "situational usage," and "listening comprehension."
+3.  Work on Lesson 7 {{% resource_link "65412234-d107-40dc-a337-6c126110a395" "drills" %}}, including "particle review," "situational usage," and "listening comprehension."
 4.  Review \[G\] Lesson 7 kanji.
 
 
@@ -284,7 +284,7 @@ Lesson 7 Drill (6)
 
 *   \[G\] Lesson 7 review practice
 *   \[G\] Lesson 8 kanji introduction, pp.323–324
-*   Lesson 7 lesson quiz: \[G\] Lesson 7 kinship terms, in/out group terms, and additional terms, including ごかぞく, (ご)りょうしん, and (ご) きょうだい on p.184, "body parts" vocabulary, and Lesson 7 kanji. Format: similar to "Listening Comprehension" and "Situational Usage" in the assigned [drills](http://web.mit.edu/21f.502/www/review.html). The first part is listening comprehension. After listening to each Japanese dialogue twice, you will answer each questions in English. In the second part, situations/contexts are given in English, and you will write what you would say in Japanese. You are expected to use all the kanji up to Lesson 7.
+*   Lesson 7 lesson quiz: \[G\] Lesson 7 kinship terms, in/out group terms, and additional terms, including ごかぞく, (ご)りょうしん, and (ご) きょうだい on p.184, "body parts" vocabulary, and Lesson 7 kanji. Format: similar to "Listening Comprehension" and "Situational Usage" in the assigned {{% resource_link "65412234-d107-40dc-a337-6c126110a395" "drills" %}}. The first part is listening comprehension. After listening to each Japanese dialogue twice, you will answer each questions in English. In the second part, situations/contexts are given in English, and you will write what you would say in Japanese. You are expected to use all the kanji up to Lesson 7.
 
 
 {{< tdclose >}}
@@ -325,7 +325,7 @@ Lesson 8 Grammar
 
 1.  Do \[G\] Lesson 8 Practice I-A and I-B, II-A and II-B. Make sure that you can make negative short forms quickly!
 2.  Do homework (しゅくだい) 4: \[GW\] pp.73–74.
-3.  Use the assigned [drills](http://web.mit.edu/21f.502/www/review.html) of Lesson 8 for extra practice.
+3.  Use the assigned {{% resource_link "65412234-d107-40dc-a337-6c126110a395" "drills" %}} of Lesson 8 for extra practice.
 4.  Prepare for Lesson 8 vocabulary quiz.
 
 
@@ -358,7 +358,7 @@ _Week 4_
 
 
 1.  Do \[G\] Practice III-A, and IV-A.
-2.  Do the assigned [drills](http://web.mit.edu/21f.502/www/review.html) of Lesson 8 for extra practice.
+2.  Do the assigned {{% resource_link "65412234-d107-40dc-a337-6c126110a395" "drills" %}} of Lesson 8 for extra practice.
 3.  Do homework (しゅくだい) 5: \[GW\] pp.75–76.
 4.  Study Lesson 8 kanji.
 
@@ -413,7 +413,7 @@ Lesson 8 Drill (3)
 
 
 1.  Do \[G\] Practice VII-A, VIII-A and VIII-B.
-2.  Review the assigned [drills](http://web.mit.edu/21f.502/www/review.html) of Lesson 8.
+2.  Review the assigned {{% resource_link "65412234-d107-40dc-a337-6c126110a395" "drills" %}} of Lesson 8.
 3.  Read \[G\] p.326 and prepare for Q&A in class.
 4.  Do homework (しゅくだい) 7: \[GW\] p.79.
 5.  Study for Lesson 8 kanji quiz. Make sure to study Lesson 7 kanji as well.
@@ -443,7 +443,7 @@ Lesson 8 Drill (4)
 
 1.  Study \[G\] Lesson 8 dialogue. Read it at least five times and be ready to answer questions regarding the dialogue in class.
 2.  Review \[G\] Lesson 8 vocabulary, kanji, and grammar.
-3.  Start preparing for Lesson 8 lesson quiz. Work on the assigned [drills](http://web.mit.edu/21f.502/www/review.html) of Lesson 8 on "listening comprehension" and "situational usage."
+3.  Start preparing for Lesson 8 lesson quiz. Work on the assigned {{% resource_link "65412234-d107-40dc-a337-6c126110a395" "drills" %}} of Lesson 8 on "listening comprehension" and "situational usage."
 
 
 {{< tdclose >}}
@@ -472,7 +472,7 @@ _Week 5_
 {{< tdopen >}}
 
 
-1.  Work on Lesson 8 "situational usage" and "listening comprehension" with the assigned [drills](http://web.mit.edu/21f.502/www/review.html).
+1.  Work on Lesson 8 "situational usage" and "listening comprehension" with the assigned {{% resource_link "65412234-d107-40dc-a337-6c126110a395" "drills" %}}.
 2.  Review \[G\] Lesson 8 vocabulary and structure patterns.
 3.  Review \[G\] Lesson 8 kanji.
 
@@ -581,7 +581,7 @@ _Week 6_
 
 
 1.  Do \[G\] Practice III-A and III-B, and IV-A.
-2.  Do the assigned [drills](http://web.mit.edu/21f.502/www/review.html).
+2.  Do the assigned {{% resource_link "65412234-d107-40dc-a337-6c126110a395" "drills" %}}.
 3.  Do homework (しゅくだい) 9: \[GW\] pp.84-I, 85, p.142
 
 
@@ -609,7 +609,7 @@ Lesson 9 Drill (2)
 
 
 1.  Do \[G\] Practice V-A and V-B.
-2.  Do the assigned [drills](http://web.mit.edu/21f.502/www/review.html) of Lesson 9.
+2.  Do the assigned {{% resource_link "65412234-d107-40dc-a337-6c126110a395" "drills" %}} of Lesson 9.
 3.  Study color vocabulary in \[G\]. p.227.
 4.  Do homework 10: \[GW\] pp.86, 87, and 88-I.
 
@@ -683,8 +683,8 @@ Lesson 9 Drill (5)
 
 *   Submit your 作文2 (1st draft) and check list
 *   \[G\] Lesson 9 kanji quiz
-*   Review [short form](http://web.mit.edu/21f.502/www/review.html)
-*   Review: [sentence modifier (Qualifying nouns with verbs)](http://genki-assistant.mit.edu/cgi-bin/opendrill.cgi?blueprintid=451)
+*   Review {{% resource_link "65412234-d107-40dc-a337-6c126110a395" "short form" %}}
+*   Review: {{% resource_link "11785c34-353f-4049-a6e6-febf65398086" "sentence modifier (Qualifying nouns with verbs)" %}}
 *   Review: もう and まだ
 *   Counting -つ
 
@@ -699,7 +699,7 @@ Lesson 9 Drill (5)
 {{< tdopen >}}
 
 
-1.  Work on "situational usage" and "listening comprehension" with the assigned [drills](http://web.mit.edu/21f.502/www/review.html) of Lesson 9.
+1.  Work on "situational usage" and "listening comprehension" with the assigned {{% resource_link "65412234-d107-40dc-a337-6c126110a395" "drills" %}} of Lesson 9.
 2.  Review \[G\] Lesson 9 kanji and "color" on p.227.
 3.  Review grammatical patterns and vocabulary in \[G\] Lessons 7–9.
 
@@ -767,8 +767,8 @@ Prepare for the Interview Test:
 Lesson 10 Drill (1)
 
 *   Turn in homework 11
-*   [Comparison between two items](http://web.mit.edu/21f.502/www/review.html)
-*   [Comparison among three and more items](http://web.mit.edu/21f.502/www/review.html)
+*   {{% resource_link "65412234-d107-40dc-a337-6c126110a395" "Comparison between two items" %}}
+*   {{% resource_link "65412234-d107-40dc-a337-6c126110a395" "Comparison among three and more items" %}}
 
 
 {{< tdclose >}}
@@ -783,7 +783,7 @@ Lesson 10 Drill (1)
 
 1.  Do homework (しゅくだい) 12: \[GW\] pp.93, 94-I, and 144.
 2.  Do \[GW\] Practice III and V-A on pp.240–241.
-3.  Do the assigned [drills](http://web.mit.edu/21f.502/www/review.html) of Lesson 10.
+3.  Do the assigned {{% resource_link "65412234-d107-40dc-a337-6c126110a395" "drills" %}} of Lesson 10.
 
 
 {{< tdclose >}}
@@ -793,9 +793,9 @@ Lesson 10 Drill (1)
 Lesson 10 Drill (2)
 
 *   Turn in しゅくだい12
-*   [Pronoun の](http://web.mit.edu/21f.502/www/review.html)
+*   {{% resource_link "65412234-d107-40dc-a337-6c126110a395" "Pronoun の" %}}
 *   つもり
-*   Review "[Comparison](http://web.mit.edu/21f.502/www/review.html)"
+*   Review "{{% resource_link "65412234-d107-40dc-a337-6c126110a395" "Comparison" %}}"
 *   Review short forms
 
 
@@ -810,9 +810,9 @@ Lesson 10 Drill (2)
 
 
 1.  Do \[G\] Practice V-A on pp.242-132 and VI-A on p.244.
-2.  Do the assigned [drills](http://web.mit.edu/21f.502/www/review.html) of Lesson 10.
+2.  Do the assigned {{% resource_link "65412234-d107-40dc-a337-6c126110a395" "drills" %}} of Lesson 10.
 3.  Do homework 13.
-4.  Lesson 10 quiz is coming up! Start working on the "[listening comprehension and situational usage](http://web.mit.edu/21f.502/www/review.html)."
+4.  Lesson 10 quiz is coming up! Start working on the "{{% resource_link "65412234-d107-40dc-a337-6c126110a395" "listening comprehension and situational usage" %}}."
 
 
 {{< tdclose >}}
@@ -824,7 +824,7 @@ Lesson 10 Drill (3)
 *   Turn in しゅくだい13
 *   Adjective+なる
 *   どこかに/どこにも
-*   [Time duration expression](http://web.mit.edu/21f.502/www/review.html)
+*   {{% resource_link "65412234-d107-40dc-a337-6c126110a395" "Time duration expression" %}}
 *   Review comparison
 *   Reviewつもり
 
@@ -856,7 +856,7 @@ Lesson 10 Drill (4)
 *   Lesson 10 kanji quiz
 *   by means of で+かかります
 *   Lesson 10 dialogue
-*   Review "[time duration expression](http://web.mit.edu/21f.502/www/review.html)"~時間、~分、~ヶ月、~年
+*   Review "{{% resource_link "65412234-d107-40dc-a337-6c126110a395" "time duration expression" %}}"~時間、~分、~ヶ月、~年
 
 
 {{< tdclose >}}
@@ -875,7 +875,7 @@ _Week 9_
 {{< tdopen >}}
 
 
-1.  Work on "situational usage" and "listening comprehension" with the assigned [drills](http://web.mit.edu/21f.502/www/review.html) of Lesson 10.
+1.  Work on "situational usage" and "listening comprehension" with the assigned {{% resource_link "65412234-d107-40dc-a337-6c126110a395" "drills" %}} of Lesson 10.
 2.  Review \[G\] Lesson 10 vocabulary and structure patterns.
 3.  Review \[G\] Lesson kanji.
 
@@ -1013,9 +1013,9 @@ Lesson 11 Drill (3)
 
 
 1.  Read \[G\] Lesson 11 reading.
-2.  Do the assigned [drills](http://web.mit.edu/21f.502/www/review.html) of Lesson 11.
+2.  Do the assigned {{% resource_link "65412234-d107-40dc-a337-6c126110a395" "drills" %}} of Lesson 11.
 3.  Study for Lesson 11 kanji quiz, and review Lesson 10 kanji.
-4.  Lesson 11 lesson quiz is coming up! Start working on "[listening comprehension and situational usage](http://web.mit.edu/21f.502/www/review.html)" of Lesson 11 from the assigned drills. 
+4.  Lesson 11 lesson quiz is coming up! Start working on "{{% resource_link "65412234-d107-40dc-a337-6c126110a395" "listening comprehension and situational usage" %}}" of Lesson 11 from the assigned drills. 
 
 
 {{< tdclose >}}
@@ -1041,7 +1041,7 @@ Lesson 11 Drill (4)
 
 1.  Prepare for Lesson 11 lesson quiz.
 2.  Review Lesson 11.
-3.  Work on "[situational usage](http://web.mit.edu/21f.502/www/review.html)" and "[listening comprehension](http://web.mit.edu/21f.502/www/review.html)" with the assigned drills of Lesson 11.
+3.  Work on "{{% resource_link "65412234-d107-40dc-a337-6c126110a395" "situational usage" %}}" and "{{% resource_link "65412234-d107-40dc-a337-6c126110a395" "listening comprehension" %}}" with the assigned drills of Lesson 11.
 
 
 {{< tdclose >}}
@@ -1097,7 +1097,7 @@ Lesson 12 Grammar
 1.  Prepare for the Lesson 12 vocabulary quiz 2: \[G\] "nouns" on pp.268 and vocabulary of Lesson 11 on pp.252–253.
 2.  Do homework 18: \[GW\] pp.106-I and 107-I.
 3.  Do \[G\] Exercise I-A, II-A, and II-B.
-4.  Do the assigned [drills](http://web.mit.edu/21f.502/www/review.html) of Lesson 12.
+4.  Do the assigned {{% resource_link "65412234-d107-40dc-a337-6c126110a395" "drills" %}} of Lesson 12.
 5.  Complete 作文2 (final draft).
 
 
@@ -1109,7 +1109,7 @@ Lesson 12 Drill (1)
 
 *   Lesson 12 vocabulary quiz 2 with a format of #1-8 日本語を見て、えい語をえらんでください (choose) and #9-15 えい語を見て、日本語をえらんでください
 *   Turn in しゅくだい18
-*   [~んです](http://web.mit.edu/21f.502/www/review.html)
+*   {{% resource_link "65412234-d107-40dc-a337-6c126110a395" "~んです" %}}
 *   \[G\] Lesson 12 kanji introduction, pp.346–347
 
 
@@ -1125,7 +1125,7 @@ Lesson 12 Drill (1)
 
 1.  Do homework 19: \[GW\] pp.108 and 148.
 2.  Do \[G\] Practice III-A and III-B.
-3.  Do the assigned [drills](http://web.mit.edu/21f.502/www/review.html) of Lesson 12 to review ~んです.
+3.  Do the assigned {{% resource_link "65412234-d107-40dc-a337-6c126110a395" "drills" %}} of Lesson 12 to review ~んです.
 
 
 {{< tdclose >}}
@@ -1162,7 +1162,7 @@ Lesson 12 Drill (3)
 
 *   Turn in しゅくだい20
 *   ~ので 
-*   [~なければいけません/~なきゃいけません](http://web.mit.edu/21f.502/www/review.html)
+*   {{% resource_link "65412234-d107-40dc-a337-6c126110a395" "~なければいけません/~なきゃいけません" %}}
 *   Review ~んです、〜すぎる、〜ほうがいいです
 *   Project: 友だち募集プロジェクトPart I (Topic: おもしろい「友だちぼしゅう」を書いてください)
 
@@ -1185,7 +1185,7 @@ _Week 12_
 
 1.  Do \[G\] Practice VI-A and VII-B.
 2.  Study for Lesson 12 kanji quiz and review Lesson 11 kanji.
-3.  Review [~なければいけません/~なきゃいけません](http://web.mit.edu/21f.502/www/review.html)
+3.  Review {{% resource_link "65412234-d107-40dc-a337-6c126110a395" "~なければいけません/~なきゃいけません" %}}
 
 
 {{< tdclose >}}
@@ -1196,7 +1196,7 @@ Lesson 12 Drill (4)
 
 *   Lesson 12 kanji quiz
 *   ~でしょう
-*   Review [~なければいけません/~なきゃいけません](http://web.mit.edu/21f.502/www/review.html)
+*   Review {{% resource_link "65412234-d107-40dc-a337-6c126110a395" "~なければいけません/~なきゃいけません" %}}
 
 
 {{< tdclose >}}
@@ -1245,7 +1245,7 @@ Interview Test
 
 
 1.  Review all the structure patterns, vocabulary and kanji (You are expected to be able to read and write kanji) up to \[G\] Lesson 12.
-2.  Do "listening comprehension" and "situational usage" with all of the assigned [drills](http://web.mit.edu/21f.502/www/review.html) for Lessons 7–12.
+2.  Do "listening comprehension" and "situational usage" with all of the assigned {{% resource_link "65412234-d107-40dc-a337-6c126110a395" "drills" %}} for Lessons 7–12.
 
 
 {{< tdclose >}}
