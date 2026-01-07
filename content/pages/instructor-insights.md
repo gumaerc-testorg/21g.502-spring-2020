@@ -15,7 +15,7 @@ Below, Masami Ikeda-Lamm describes various aspects of how she teaches *21G.502 J
 
 **OCW:** This course emphasizes an active command of Japanese, with a focus on communication. As an educator, what are some of the biggest challenges you face in helping students at this particular level move from pure memorization to active communication?
 
-**Masami Ikeda-Lamm:** Active command of Japanese is one of the main focuses of our Japanese courses at MIT. Therefore, from the very beginning, we introduce various communication tools and strategies, such as non-verbal communication, {{% resource_link "30597139-0226-44f2-80c4-650a3d29fe90" "aizuchi" %}}, fillers, and shifting of politeness levels, as well as exposing our students to Japanese at natural speed.
+**Masami Ikeda-Lamm:** Active command of Japanese is one of the main focuses of our Japanese courses at MIT. Therefore, from the very beginning, we introduce various communication tools and strategies, such as non-verbal communication, [aizuchi](https://en.wikipedia.org/wiki/Aizuchi), fillers, and shifting of politeness levels, as well as exposing our students to Japanese at natural speed.
 
 Also, to engage our students and elicit their utterances, we create contexts where students have to use Japanese appropriately, make students pay attention to cultural aspects such as politeness, and encourage them to be as communicative as possible in a natural way.
 
@@ -25,7 +25,7 @@ Ideally, all the mechanical drills with rote memorization should be done outside
 
 **OCW:** Presumably many of the students in 21G.502 are coming to it directly from 21G.501. Do many of them know each other from the earlier class? If so, what can you tell us about the sense of community this creates in the classroom?
 
-**Masami Ikeda-Lamm:** Though most of the students have taken 21G.501, that course is offered in four sections in the fall semester and in two sections during the {{% resource_link "e7b62083-d1d1-4f94-b29b-dd63d6aeff73" "IAP" %}}. And some of the students have previously studied Japanese elsewhere or by themselves and placed into 21G.502. Thus, many of the students are actually new to each other at the beginning of the semester.
+**Masami Ikeda-Lamm:** Though most of the students have taken 21G.501, that course is offered in four sections in the fall semester and in two sections during the [IAP](https://web.mit.edu/iap/). And some of the students have previously studied Japanese elsewhere or by themselves and placed into 21G.502. Thus, many of the students are actually new to each other at the beginning of the semester.
 
 {{< quote "A sense of community facilitates language learning, and a feeling of belonging is critical to ensuring students remain involved." "— Masami Ikeda-Lamm" >}}
 
@@ -58,8 +58,8 @@ The students' grades were based on the following assessment elements:
 - GIR
 - HASS
 - HASS-H
-- 21G.502 is required for a {{% resource_link "b9130234-8fd3-41ff-9ab5-9b366198d485" "Bachelor’s Degree in Global Languages with a concentration in Japanese Studies" %}}.
-- 21G.502 counts toward the two years of Japanese studies required for participation in the {{% resource_link "c0589fca-a488-4662-b0ec-d6940e518a22" "MISTI-Japan internship program" %}}.
+- 21G.502 is required for a [Bachelor’s Degree in Global Languages with a concentration in Japanese Studies](http://catalog.mit.edu/schools/humanities-arts-social-sciences/global-studies-languages/#global-languages-literatures-bs-course-21g).
+- 21G.502 counts toward the two years of Japanese studies required for participation in the [MISTI-Japan internship program](https://misti.mit.edu/mit-japan).
 
 ### Offered
 
